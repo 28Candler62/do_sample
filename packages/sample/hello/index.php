@@ -1,13 +1,16 @@
-<?php
+<!-- <?php -->
  
-function main(array $args) : array
-{
-    $name = $args["name"] ?? "stranger";
+// function main(array $args) : array
+// {
+//     $name = $args["name"] ?? "stranger";
     
-    $greeting = "Hello {$name}!";
-    echo $greeting;
+//     $greeting = "Hello {$name}!";
+//     echo $greeting;
  
-    return [
-        'body' => $greeting,
-    ];
-}
+//     return [
+//         'body' => $greeting,
+//     ];
+// }
+<?php
+phpinfo();
+?>
